@@ -1,0 +1,12 @@
+a 1
+b 01
+a 1
+a 1
+b 01
+a 1
+a 1
+a 1
+b 01
+c 00
+14 && 
+abaabaaabc 

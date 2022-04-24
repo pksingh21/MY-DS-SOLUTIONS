@@ -1,0 +1,61 @@
+Enter the number of insertions 
+Enter the 3 records
+
+Enter the 1th Roll no. 
+
+Enter the 1th CGPA 
+Data insertion happeningdata inserted in empty
+Enter the 2th Roll no. 
+
+Enter the 2th CGPA 
+Data insertion happening
+Enter the 3th Roll no. 
+
+Enter the 3th CGPA 
+Data insertion happening
+The HashTable is
+20CS01000 2 
+20CS01007 2 
+Empty
+Empty
+20CS01014 4 
+Empty
+Empty
+Enter the operation you want?
+ Press 1 for searching 
+ 2 for insertion 
+ 3 for deletion 
+ 4 for Quiting
+Enter the roll no. u want to delete
+totcurrent: 2 deleted: 1 size: 7
+
+The HashTable is
+20CS01000 2 
+Deleted
+Empty
+Empty
+20CS01014 4 
+Empty
+Empty
+Enter the operation you want?
+ Press 1 for searching 
+ 2 for insertion 
+ 3 for deletion 
+ 4 for QuitingEnter the roll no. you want to insert in Hash Table
+Enter the CGPA for the given roll no
+Data insertion happeningData inserted
+totcurrent: 3 deleted: 0 size: 7
+
+The HashTable is
+20CS01000 2 
+20CS01007 1.2 
+Empty
+Empty
+20CS01014 4 
+Empty
+Empty
+Enter the operation you want?
+ Press 1 for searching 
+ 2 for insertion 
+ 3 for deletion 
+ 4 for Quiting
